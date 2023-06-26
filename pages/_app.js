@@ -9,7 +9,7 @@ function Marketplace({Component,pageProps}){
           NFT Digital Art Marketplace
         </p>
         <div className="flex justify-center p-8">
-          <Link href="/" className="mr-4 text-xl text-cyan-200">
+          <Link href="/" className="mr-6 text-xl text-cyan-200">
             Home
           </Link>
           <Link href="/createNFT" className="mr-6 text-xl text-cyan-200">
